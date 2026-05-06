@@ -7,7 +7,7 @@ class Karyawan {
   hitungBonus() {
     return 0;
   }
-}
+}a
 
 class KaryawanTetap extends Karyawan {
   hitungBonus() {
